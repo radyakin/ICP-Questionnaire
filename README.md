@@ -14,5 +14,7 @@ Deployment is possible to a local server or to a cloud. Cloud deployments are re
 - [Amazon AWS](https://docs.mysurvey.solutions/headquarters/config/aws-setup/)
 - [Microsoft Azure](https://docs.mysurvey.solutions/headquarters/config/azure-setup/)
 
+[Personal demonstration servers](https://docs.mysurvey.solutions/headquarters/config/personal-demo-server/) are available for checking the functionality of the software. They should not be used for collecting actual data.
+
 The questionnaire is a template. It does not carry any actual items, the prices of which are tracked.
 It is recommended to edit/finalize/retest the template for the actual client and survey plan.
