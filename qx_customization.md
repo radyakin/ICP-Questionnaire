@@ -1,5 +1,16 @@
 # Questionnaire Customization
 
+Anyone who intends to edit or import a Survey Solutions questionnaire must have an 
+account and do such edits in the [Designer](https://designer.mysurvey.solutions) tool. 
+
+The access to the Designer tool is open to public and free (no cost). Users must 
+self-register.
+
+The particular template described here is not *editable* by the public. It is 
+accessible in read-only mode. If there is a customization needed, users must 
+perform it on own copy. If there is a bug in the template, raise an issue in 
+the [issues tracker at GitHub](https://github.com/radyakin/ICP-Questionnaire/issues).
+
 ### Identifying information
 The questionnaire template contains no identification fields. While the system will
 know which interviewer is sending the information and when it was recorded it still
