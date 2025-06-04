@@ -1,4 +1,4 @@
-# Questionnaire Customization
+# Questionnaire customization
 
 Anyone who intends to edit or import a Survey Solutions questionnaire must have an 
 account and do such edits in the [Designer](https://designer.mysurvey.solutions) tool. 
