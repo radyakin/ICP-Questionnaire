@@ -18,3 +18,12 @@ Deployment is possible to a local server or to a cloud. Cloud deployments are re
 
 The questionnaire is a template. It does not carry any actual items, the prices of which are tracked.
 It is recommended to edit/finalize/retest the template for the actual client and survey plan.
+
+The documentation is organized as follows:
+
+- [Questionnaire customization](qx_customization.md);
+- [Calculation](calculation.md);
+- [Test example](test_example.md);
+- [Guidance on preloading](preloading.md).
+
+
