@@ -40,19 +40,3 @@ Note: It is an error of misspecification if `minQuantity_1` is larger than `maxQ
 
 As of now the images of items may not be preloaded dynamically. Instead, they must be embedded into the questionnaire. Use of images is optional, but if they are included into the questionnaire, they must be named specifically as "***i_{itemcode}***". Where the code of the item is to be substituted in place of `{itemcode}`. For example, "*i_11011130199*".
 
-### Units conversion
-Units of measurement that are used in this collection are coded. For example:
-```
-Piece......1
-Pair.......2
-Pack.......3
-Kilogram...11
-Gram.......12
-Pound......13
-```
-The UOM codes apply to the minimum, maximum, observed, normalized, and reference quantities.
-UOM codes are embedded into the questionnaire in the `UNITS` reusable categories.
-![image](https://github.com/user-attachments/assets/0d644feb-25ce-4889-83f8-ef5f90de7ff5)
-
-
-A conversion table for units must be included into the questionnaire. For every item, the interviewers will be able to enter quantity in the reference units, or in any other units for which the conversion coefficient is specified.
