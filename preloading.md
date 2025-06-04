@@ -28,7 +28,7 @@ $$ 1 - \frac{t}{100} <= \frac{p}{r} <= 1 + \frac{t}{100} $$
 
 where *p* is observed price, *r* is reference price and *t* is tolerance.
 
-`itemObs_1` - (mandatory). For every item, the minimal number of observations of that item to be collected. This value is expected to be protected in the preloading file, so that the interviewers can't reduce it below the specified value (but they can increase it to a larger one if needed). For example: `5`.
+`itemObs_1` - (mandatory). For every item, the minimal number of observations of that item to be collected. This value is expected to be [protected](https://docs.mysurvey.solutions/headquarters/preloading/protecting-pre-loaded-answers/) in the preloading file, so that the interviewers can't reduce it below the specified value (but they can increase it to a larger one if needed). For example: `5`.
 
 Note: It is an error of misspecification if `minQuantity_1` is larger than `maxQuantity_1` for any item.
 
