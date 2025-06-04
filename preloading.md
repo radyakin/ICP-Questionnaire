@@ -1,3 +1,5 @@
+# Guidance on preloading
+
 ### Item information preloading in the assignment
 
 `itemCode_1` - mandatory! Any item for which the price needs to be collected must be assigned a unique code that is determining the rest of the characteristics below. Example, *CONS1234812394*. This code is not processed by the software by itself, and the accompanying information must be supplied along with it. It is exported with the final data to allow absorption of the collected data to storage and processing/aggregation. The code is handled as a string to prevent loss of leading zeroes or truncation/rounding of values due to precision, and the supplying and consuming subsystems must account for this.
