@@ -40,23 +40,6 @@ Note: It is an error of misspecification if `minQuantity_1` is larger than `maxQ
 
 As of now the images of items may not be preloaded dynamically. Instead, they must be embedded into the questionnaire. Use of images is optional, but if they are included into the questionnaire, they must be named specifically as "***i_{itemcode}***". Where the code of the item is to be substituted in place of `{itemcode}`. For example, "*i_11011130199*".
 
-### Calculated results
-
-For every observation of price the following are calculated:
-
-- `quantityNormalized_1` - observed quantity converted from observed units to reference units. For example, if the weight of the observed item was exactly *2lbs* and the reference unit is *kilogram*, then the normalized quantity is *0.907185kg*.
-
-- `priceNormalized_1` - this is the cost of the reference quantity in observed prices. (this value is expressed in currency per reference UOM).
-
-- `priceRatio_1` - this is the ratio of the normalized price to reference price. (this value is unitless)
-
-The values above are calculated and immediately used to validate interviewer's input.
-
-In addition the program calculates the following for the *supervisors*:
-- total number of shops, from which the items were collected.
-- share of shops (in percent) by type (9 types of shops).
-
-
 ### Units conversion
 Units of measurement that are used in this collection are coded. For example:
 ```
