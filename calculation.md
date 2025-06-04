@@ -45,3 +45,12 @@ of calculations:
 - question `sv_review_item_stats`;
 - sub-section "*Shop statistics*";
 - sub-section "*Item statistics*".
+
+### Distribution of shops by type
+![image](https://github.com/user-attachments/assets/e42c8ece-9ab1-4a99-bed3-4a265378c520)
+
+### Distribution of items by shop type
+![image](https://github.com/user-attachments/assets/b237fb77-55ed-4e4b-a342-3478d34bc86a)
+
+
+
