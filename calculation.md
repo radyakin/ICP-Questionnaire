@@ -1,4 +1,4 @@
-### Calculated results
+# Calculation
 
 For every observation of price the following are calculated:
 
