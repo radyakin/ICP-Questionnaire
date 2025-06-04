@@ -13,4 +13,5 @@ The documentation is organized as follows:
 - [Calculation](calculation.md);
 - [Test example](test_example.md);
 - [Server](server.md);
-- [Guidance on preloading](preloading.md).
+- [Guidance on preloading](preloading.md);
+- [Limits](limits.md).
