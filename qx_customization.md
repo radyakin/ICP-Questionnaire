@@ -17,8 +17,10 @@ The questionnaire template contains no identification fields. While the system w
 know which interviewer is sending the information and when it was recorded it still
 makes sense to introduce some sort of identification, such as an island code, town
 or village name, etc for locating where the interviewer is working to collect the
-prices. (alternatively, target area bounds can be supplied to the interviewer during
-assignment creation).
+prices. (alternatively, 
+[target area bounds](https://github.com/user-attachments/assets/6c496f7f-3785-4278-a1aa-88730c6a1255) 
+can be supplied to the interviewer during assignment creation).
+
 
 ### Use of images
 As of now the images of items may not be preloaded dynamically (this is a Survey 
