@@ -56,3 +56,9 @@ their presence in the lookup table will not be an issue.
 If the number of units of measurement is larger than `100` the formula for the 
 filtering condition in variable `unit_1` must be updated to accommodate wider 
 item codes.
+
+The specific conversion factors for the demonstration were pulled out from the 
+following sources:
+
+- [Wikipedia: Imperial Units](https://en.wikipedia.org/wiki/Imperial_units);
+- [Google](https://www.google.com/search?q=convert+1+inch+to+meters).
