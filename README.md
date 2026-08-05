@@ -3,12 +3,14 @@ Development of a [Survey Solutions](https://mysurvey.solutions/) questionnaire t
 
 Documentation on the Survey Solutions software is at [https://docs.mysurvey.solutions](https://docs.mysurvey.solutions).
 
-[ICP questionnaire template](https://designer.mysurvey.solutions/q/details/38d6688a776a46aaa928b09d4d7bf6cc) in Survey Solutions Designer.
+Here are the links to the two questionnaires in Survey Solutions Designer:
+- [ICP questionnaire template](https://designer.mysurvey.solutions/q/details/38d6688a776a46aaa928b09d4d7bf6cc), and
+- [Construction and Civil Engineering](https://designer.mysurvey.solutions/q/details/9a4553617d2242f5bbbde2cd42efa193).
 
-The questionnaire is a **template**. It does not carry any actual items, the prices of which are tracked.
+Both questionnaires are **templates**. They do not carry any actual items, the prices of which are tracked.
 It is recommended to edit/finalize/retest the template for the actual client and survey plan.
 
-The documentation related to this questionnaire template is organized as follows:
+The documentation related to the ***Price Collection*** questionnaire template is organized as follows:
 
 - [Workflow overview](workflow.md);
 - [Questionnaire customization](qx_customization.md);
@@ -18,3 +20,5 @@ The documentation related to this questionnaire template is organized as follows
 - [Test example](test_example.md);
 - [Server](server.md);
 - [Guidance on preloading](preloading.md).
+
+The documentation for the ***Construction and Civil Engineering*** questionnaire template is forthcoming.
